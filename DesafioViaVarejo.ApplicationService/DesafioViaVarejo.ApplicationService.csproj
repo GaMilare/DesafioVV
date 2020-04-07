@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DesafioViaVarejo.Domain\DesafioViaVarejo.Domain.csproj" />
+    <ProjectReference Include="..\DesafioViaVarejo.Infra\DesafioViaVarejo.Infra.csproj" />
+    <ProjectReference Include="..\DesafioViaVarejo.Shared\DesafioViaVarejo.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.ApplicationService\\DesafioViaVarejo.ApplicationService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.ApplicationService\\DesafioViaVarejo.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.ApplicationService\\DesafioViaVarejo.ApplicationService.csproj",
+        "projectName": "DesafioViaVarejo.ApplicationService",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.ApplicationService\\DesafioViaVarejo.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\DesafioViaVarejo.Infra.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\DesafioViaVarejo.Infra.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj",
+        "projectName": "DesafioViaVarejo.Domain",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\DesafioViaVarejo.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\DesafioViaVarejo.Infra.csproj",
+        "projectName": "DesafioViaVarejo.Infra",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\DesafioViaVarejo.Infra.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj"
+              },
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj",
+        "projectName": "DesafioViaVarejo.Shared",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\DesafioViaVarejo.Shared.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\Projects\\VV\\DesafioViaVarejo\\DesafioVV\\DesafioViaVarejo.Domain\\DesafioViaVarejo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

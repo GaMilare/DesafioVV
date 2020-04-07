@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.deps.json
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.dll
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.pdb
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.dll
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.pdb
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.deps.json
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.dll
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\bin\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.pdb
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.dll
+C:\Users\Usuario\Documents\Projects\VV\DesafioViaVarejo\DesafioVV\DesafioViaVarejo.Domain\obj\Debug\netcoreapp2.2\DesafioViaVarejo.Domain.pdb
