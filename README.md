@@ -1,7 +1,6 @@
 # DesafioVV
 
-Projeto desenvolvido para atender o desafio proposto:
-[O desafio](https://github.com/viavarejo/backend-test):
+Projeto desenvolvido para atender o [desafio](https://github.com/viavarejo/backend-test) proposto:
 Seu objetivo é criar um endpoint para que possamos simular a compra de um produto, deve retornar uma lista de parcelas, acrescidas de juros com base na taxa SELIC de 1.15% ao mês (se possível consultar a taxa em tempo real), somente quando o número de parcelas for superior a 06 (seis) parcelas.
 
 ## Primeiros passos
@@ -24,7 +23,7 @@ Product
 
 A API possui chamadas com autenticação JWT, sendo assim, para executar as chamadas da API de Produtos, será preciso realizar a autenticação para obter o Bearer Token.
 
-Para obter a lista de usuários disponiveis para realizar o Login, realize uma chamada GET para o endpoint/api/Authentication/GetUsers.
+Para obter a lista de usuários disponiveis para realizar o Login, realize uma chamada GET para o endpoint /api/Authentication/GetUsers.
 Com o UserName e o UserPsw obtidos, realize o Post de Login (/api/Authentication/login) para receber o token de autenticação.
 Exemplo de retorno de User
 
@@ -70,8 +69,6 @@ Response
   }
 }
 ``` 
-Os testes realizados se encontram na camada .Tests
-
-##Contato
+## Contato
 
 * Gabriel Milaré - gmilare@outlook.com
